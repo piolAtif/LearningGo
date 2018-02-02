@@ -1,0 +1,25 @@
+mode: set
+LearningGo/basic/array_assignment.go:3.60,5.32 2 1
+LearningGo/basic/array_assignment.go:10.2,10.19 1 1
+LearningGo/basic/array_assignment.go:5.32,6.17 1 1
+LearningGo/basic/array_assignment.go:6.17,8.4 1 1
+LearningGo/basic/array_assignment.go:13.35,15.2 1 1
+LearningGo/basic/array_assignment.go:17.34,19.2 1 1
+LearningGo/basic/array_assignment.go:21.41,23.2 1 1
+LearningGo/basic/array_assignment.go:25.42,27.2 1 1
+LearningGo/basic/array_and_slice.go:8.42,9.21 1 1
+LearningGo/basic/array_and_slice.go:9.21,11.3 1 1
+LearningGo/basic/array_and_slice.go:14.52,17.20 3 1
+LearningGo/basic/array_and_slice.go:22.2,24.14 3 1
+LearningGo/basic/array_and_slice.go:17.20,21.3 3 1
+LearningGo/basic/array_and_slice.go:27.34,30.22 2 1
+LearningGo/basic/array_and_slice.go:36.2,36.25 1 1
+LearningGo/basic/array_and_slice.go:41.2,41.13 1 1
+LearningGo/basic/array_and_slice.go:30.22,31.26 1 1
+LearningGo/basic/array_and_slice.go:31.26,33.4 1 1
+LearningGo/basic/array_and_slice.go:36.25,37.46 1 1
+LearningGo/basic/array_and_slice.go:37.46,39.4 1 1
+LearningGo/basic/array_and_slice.go:44.46,47.31 3 0
+LearningGo/basic/array_and_slice.go:52.2,52.22 1 0
+LearningGo/basic/array_and_slice.go:47.31,51.3 3 0
+LearningGo/basic/array_and_slice.go:55.17,57.2 1 0

@@ -1,0 +1,16 @@
+Finds odd numbers
+Finds even numbers
+Sum n numbers
+Print reverse order
+Print reverse fibonacci series
+Find the max number
+Find the min number
+Find the average of n numbers
+Calculate length of each string in an array
+Count the odd numbers
+Count the even numbers
+Finds m numbers above a threshold in n numbers of array
+Finds m numbers below a threshold in n numbers of array
+Find the first index of given number
+Find that given array is in ascending order
+Find that given array is in descending order
